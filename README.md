@@ -1,7 +1,7 @@
 NovaTask Pro - Modern Task Management System
 📋 Project Overview
 NovaTask Pro is a fully-featured, modern task management application built with pure HTML, CSS, and JavaScript. It provides a professional-grade task management experience similar to popular tools like Todoist, Microsoft To Do, and Asana, but running entirely in the browser with no backend required.
-
+LIVE DEMO :-[https://karankrtech-08.github.io/Nova-Task-Pro/]
 Version: 3.0.0
 Author: Karan Kumar
 Email: karankrtech@gmail.com
@@ -384,5 +384,6 @@ Clean Code: Well-structured and commented
 Modular: Easy to extend and customize
 
 Modern: Uses latest web standards
+
 
 Educational: Great learning resource
